@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **THREE.JS**
  
-- 🔥 I'm also enhancing myself in the field of **AR/XR Game Development**
+- 🔥 I'm also enhancing myself in the field of **AR/VR Game Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects** 
 
