@@ -17,17 +17,21 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-   <img src="https://img.icons8.com/color/96/000000/javascript.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/c-programming.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width=45 height=45></img>
+   
    <img src="https://img.icons8.com/color/96/000000/html-5.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/96/000000/css3.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/96/000000/javascript.png" width=45 height=45></img>
    <img src="https://img.icons8.com/plasticine/100/000000/react.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/96/000000/nodejs.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/git.png" width=45 height=45></img>
    <img src="https://img.icons8.com/material-outlined/96/ffffff/github.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/latex.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/nodejs.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width=45 height=45></img>
+   
+   
    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/markdown.png" width=45 height=45></img>
