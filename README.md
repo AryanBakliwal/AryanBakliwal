@@ -1,6 +1,6 @@
 <a href="#"><p align = "center"><img align = "middle" width="50%" height="auto" src="https://steamuserimages-a.akamaihd.net/ugc/910156967348138382/E4A8A3FAA9388A67BD3DC2CCD77216B21280A7A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aryan Bakliwal!
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="auto">, I'm Aryan Bakliwal!
 <h3 align="center">I'm an enthusiastic Web Developer who enjoys learning unique skills..</h3>
 
  ## 🙋‍♂️ About Me
