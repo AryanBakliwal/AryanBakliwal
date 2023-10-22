@@ -53,7 +53,7 @@
 ## My Badges
 
 <p>
-[![An image of @aryanbakliwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanbakliwal)](https://holopin.io/@aryanbakliwal)
+[![Digital Ocean](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19)](https://www.holopin.io/userbadge/clo0xutkw56160flhj21049wm "Digital Ocean")
 </p>
  
  <!--
