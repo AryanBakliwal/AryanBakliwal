@@ -22,30 +22,21 @@
    <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" width=45 height=45/>
    <img src="https://img.icons8.com/color/48/000000/arduino.png" width=45 height=45/>
-   
-   <img src="https://img.icons8.com/color/96/000000/html-5.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/css3.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/javascript.png" width=45 height=45></img>
    <img src="https://img.icons8.com/plasticine/100/000000/react.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/nodejs.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/48/python--v1.png" width=45 height=45/>
    <img src="https://camo.githubusercontent.com/6686b9ef0e21e13c9e7c846340303765c0f36e40a0490bcad453ea9d0d433ea0/68747470733a2f2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width=45 height=45></img>
    <img src="https://img.icons8.com/offices/30/000000/php-logo.png" width=45 height=45/>
    <img src="https://img.icons8.com/color/96/000000/git.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/material-outlined/96/ffffff/github.png" width=45 height=45></img>
-   
    <img src="https://img.icons8.com/color/96/000000/latex.png" width=45 height=45></img>
-   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/markdown.png" width=45 height=45></img>
-
    <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/48/000000/blender-3d.png" width=45 height=45/>
-   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png" width=45 height=45/>
-   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" width=45 height=45/>
-   <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png" width=45 height=45/>
-   <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" width=45 height=45/>
+   
+ 
    
    
 </p>
