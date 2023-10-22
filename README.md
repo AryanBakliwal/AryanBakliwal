@@ -50,11 +50,6 @@
    
 </p>
 
-## My Badges
-
-<p>
-[![Digital Ocean](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19)](https://www.holopin.io/userbadge/clo0xutkw56160flhj21049wm "Digital Ocean")
-</p>
  
  <!--
 ## 📊 My Github Stats
