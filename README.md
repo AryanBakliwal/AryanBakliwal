@@ -49,6 +49,12 @@
    
    
 </p>
+
+## My Badges
+
+<p>
+[![An image of @aryanbakliwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanbakliwal)](https://holopin.io/@aryanbakliwal)
+</p>
  
  <!--
 ## 📊 My Github Stats
