@@ -59,7 +59,7 @@
     </a>
 </p>
  
-<div align="center">
+
 
 
   <br/>
@@ -70,6 +70,7 @@
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 
+<div align="center">
 
 ## Connect with me:
 <p align="center">
@@ -82,3 +83,5 @@
 ## ❤ Views and Followers
 <a href="https://github.com/AryanBakliwal?tab=followers"><img src="https://img.shields.io/github/followers/AryanBakliwal?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/AryanBakliwal)
 -->
+
+</div>
