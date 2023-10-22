@@ -6,14 +6,15 @@
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **THREE.JS**
+- 🌱 I’m currently learning **DevOps**
  
-- 🔥 I'm also enhancing myself in the field of **AR/VR Game Development**
+//- 🔥 I'm also enhancing myself in the field of **AR/VR Game Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects** 
 
 - 📫 Reach out to me at my **[Email](aryanbakliwal12345@gmail.com)**
  
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -67,10 +68,6 @@
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 
-<br/>
-<br/>
-
-<a href="https://github.com/AryanBakliwal/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AryanBakliwal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
 <br/>
 <br/>
@@ -84,4 +81,4 @@
 </p>
  
 ## ❤ Views and Followers
-<a href="https://github.com/sratslla?tab=followers"><img src="https://img.shields.io/github/followers/sratslla?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/sratslla)
+<a href="https://github.com/AryanBakliwal?tab=followers"><img src="https://img.shields.io/github/followers/AryanBakliwal?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/AryanBakliwal)
