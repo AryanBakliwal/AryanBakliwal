@@ -28,14 +28,14 @@
    <img src="https://img.icons8.com/color/48/python--v1.png" width=45 height=45/>
    <img src="https://img.icons8.com/color/48/golang.png" width=45 height=45/>
    <img src="https://img.icons8.com/color/48/mongodb.png" width=45 height=45/>
-   <img src="https://img.icons8.com/color/96/000000/postgres.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/express.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/96/000000/postgresql.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/96/000000/expressjs.png" width=45 height=45></img>
    <img width="45" height="45" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
    <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width=45 height=45></img>
    <img src="https://img.icons8.com/offices/30/000000/php-logo.png" width=45 height=45/>
    <img src="https://img.icons8.com/color/96/000000/git.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/next.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/tailwind.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/96/000000/nextjs.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/96/000000/tailwindcss.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/docker.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/kubernetes.png" width=45 height=45></img>
