@@ -1,21 +1,21 @@
+<!--
 <a href="#"><p align = "center"><img align = "middle" width="50%" height="auto" src="https://steamuserimages-a.akamaihd.net/ugc/910156967348138382/E4A8A3FAA9388A67BD3DC2CCD77216B21280A7A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"></p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></img>, I'm Aryan Bakliwal!</h1>
+-->
+<h1 align="center">Hi
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></img>, I'm Aryan Bakliwal! </h1>
 <h3 align="center">I'm an enthusiastic Web Developer who enjoys learning unique skills..</h3>
 
- ## 🙋‍♂️ About Me
-
+## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **GoLang**
- 
+
 - 🔥 I'm also enhancing myself in the field of **DevOps**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 Reach out to me at my **[Email](aryanbakliwal12345@gmail.com)**
- 
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 <p align="center">
    <img src="https://img.icons8.com/color/96/000000/c-programming.png" width=45 height=45></img>
@@ -38,10 +38,7 @@
    <img src="https://img.icons8.com/color/96/000000/markdown.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/48/000000/blender-3d.png" width=45 height=45/>
-   
- 
-   
-   
+
 </p>
 
 ## My Badges
@@ -49,39 +46,38 @@
 <br>
 
 [![An image of @aryanbakliwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanbakliwal)](https://holopin.io/@aryanbakliwal)
- 
- <!--
-## 📊 My Github Stats
+
+ ## 📊 My Github Stats
  
 <p align="center">
     <a href="https://github.com/AryanBakliwal/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanBakliwal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanBakliwal&theme=merko&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  
-
-
-
-  <br/>
-    <a href="https://github.com/AryanBakliwal/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AryanBakliwal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AryanBakliwal/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBakliwal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  -->
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-
-
 <div align="center">
 
+
+  <br/>
+    <a href="https://github.com/AryanBakliwal/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AryanBakliwal&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AryanBakliwal/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBakliwal&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&show_icons=true&hide=jupyter%20notebook,html,css,shell,dockerfile,procfile" /></a>
+  <br/>
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+ 
+<br/>
+<br/>
+
+
 ## Connect with me:
-<p align="center">
+<p align="left">
 
-<a href = "www.linkedin.com/in/aryan-bakliwal-a6189123b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/aryanbakliwal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/AryanBakliwal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
-<!--
 </p>
+ 
 ## ❤ Views and Followers
-<a href="https://github.com/AryanBakliwal?tab=followers"><img src="https://img.shields.io/github/followers/AryanBakliwal?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/AryanBakliwal)
--->
+<a href="https://github.com/AryanBakliwal?tab=followers"><img src="https://img.shields.io/github/followers/AryanBakliwal?label=Followers&style=social" alt="GitHub Badge"></a>
 
 </div>
