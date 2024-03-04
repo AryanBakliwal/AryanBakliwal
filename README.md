@@ -3,7 +3,7 @@
 -->
 <h1 align="center">Hi
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></img>, I'm Aryan Bakliwal! </h1>
-<h3 align="center">I'm an enthusiastic Web Developer who enjoys learning unique skills..</h3>
+<h3 align="center">I am a full stack web developer actively expanding my skills by learning DevOps practices.</h3>
 
 ## 🙋‍♂️ About Me
 
