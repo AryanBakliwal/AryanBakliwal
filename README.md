@@ -28,8 +28,8 @@
    <img src="https://img.icons8.com/color/48/python--v1.png" width=45 height=45/>
    <img src="https://img.icons8.com/color/48/golang.png" width=45 height=45/>
    <img src="https://img.icons8.com/color/48/mongodb.png" width=45 height=45/>
-   <img src="https://img.icons8.com/color/96/000000/postgresql.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/expressjs.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/96/000000/postgressql.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/96/000000/express-js.png" width=45 height=45></img>
    <img width="45" height="45" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
    <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width=45 height=45></img>
    <img src="https://img.icons8.com/offices/30/000000/php-logo.png" width=45 height=45/>
