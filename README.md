@@ -1,8 +1,9 @@
 <!--
 <a href="#"><p align = "center"><img align = "middle" width="50%" height="auto" src="https://steamuserimages-a.akamaihd.net/ugc/910156967348138382/E4A8A3FAA9388A67BD3DC2CCD77216B21280A7A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"></p>
 -->
-<h1 align="center">Hi
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></img>, I'm Aryan Bakliwal! </h1>
+<h1 align="center">Hi, 
+<!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></img> -->
+I'm Aryan Bakliwal! </h1>
 <h3 align="center">I am a full stack web developer actively expanding my skills by learning DevOps practices.</h3>
 
 ## 🙋‍♂️ About Me
@@ -63,7 +64,7 @@
 
   <br/>
     <a href="https://github.com/AryanBakliwal/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AryanBakliwal&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AryanBakliwal/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBakliwal&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&show_icons=true&hide=jupyter%20notebook,html,css,shell,dockerfile,procfile" /></a>
+  <a href="https://github.com/AryanBakliwal/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBakliwal&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&show_icons=true&hide=jupyter%20notebook,dockerfile,procfile" /></a>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
  
