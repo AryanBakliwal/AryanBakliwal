@@ -3,7 +3,7 @@
 
 
 ## Connect with me:
-<p align="center">
+<p align="left">
    <a href = "https://www.linkedin.com/in/aryanbakliwal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
    <a href = "https://twitter.com/AryanBakliwal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
